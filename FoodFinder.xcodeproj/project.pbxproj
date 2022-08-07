@@ -11,6 +11,29 @@
 		F62017772896725200A0F74D /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = F62017762896725200A0F74D /* ContentView.swift */; };
 		F62017792896725300A0F74D /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F62017782896725300A0F74D /* Assets.xcassets */; };
 		F620177C2896725300A0F74D /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F620177B2896725300A0F74D /* Preview Assets.xcassets */; };
+		F6201784289672B000A0F74D /* Helper.swift in Sources */ = {isa = PBXBuildFile; fileRef = F6201783289672B000A0F74D /* Helper.swift */; };
+		F6201787289672EF00A0F74D /* Restaurants.swift in Sources */ = {isa = PBXBuildFile; fileRef = F6201786289672EF00A0F74D /* Restaurants.swift */; };
+		F620178A2896731C00A0F74D /* RestaurantDetails.swift in Sources */ = {isa = PBXBuildFile; fileRef = F62017892896731C00A0F74D /* RestaurantDetails.swift */; };
+		F620178C2896733500A0F74D /* Theme.swift in Sources */ = {isa = PBXBuildFile; fileRef = F620178B2896733500A0F74D /* Theme.swift */; };
+		F6201793289676C200A0F74D /* Inter-Black.ttf in Resources */ = {isa = PBXBuildFile; fileRef = F6201792289676C200A0F74D /* Inter-Black.ttf */; };
+		F620179C289679D700A0F74D /* Inter-Thin.ttf in Resources */ = {isa = PBXBuildFile; fileRef = F6201794289679D600A0F74D /* Inter-Thin.ttf */; };
+		F620179D289679D700A0F74D /* Inter-Light.ttf in Resources */ = {isa = PBXBuildFile; fileRef = F6201795289679D600A0F74D /* Inter-Light.ttf */; };
+		F620179E289679D700A0F74D /* Inter-ExtraLight.ttf in Resources */ = {isa = PBXBuildFile; fileRef = F6201796289679D600A0F74D /* Inter-ExtraLight.ttf */; };
+		F620179F289679D700A0F74D /* Inter-Bold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = F6201797289679D600A0F74D /* Inter-Bold.ttf */; };
+		F62017A0289679D700A0F74D /* Inter-SemiBold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = F6201798289679D600A0F74D /* Inter-SemiBold.ttf */; };
+		F62017A1289679D700A0F74D /* Inter-Medium.ttf in Resources */ = {isa = PBXBuildFile; fileRef = F6201799289679D600A0F74D /* Inter-Medium.ttf */; };
+		F62017A2289679D700A0F74D /* Inter-Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = F620179A289679D700A0F74D /* Inter-Regular.ttf */; };
+		F62017A3289679D700A0F74D /* Inter-ExtraBold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = F620179B289679D700A0F74D /* Inter-ExtraBold.ttf */; };
+		F664D1B22898A2D900D1E666 /* ForYouView.swift in Sources */ = {isa = PBXBuildFile; fileRef = F664D1B12898A2D900D1E666 /* ForYouView.swift */; };
+		F681F6A3289B48F400274CF9 /* ProfileView.swift in Sources */ = {isa = PBXBuildFile; fileRef = F681F6A2289B48F400274CF9 /* ProfileView.swift */; };
+		F681F6A5289CD1EA00274CF9 /* NetworkManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = F681F6A4289CD1EA00274CF9 /* NetworkManager.swift */; };
+		F681F6A7289CD2C500274CF9 /* NetworkNotAvailableView.swift in Sources */ = {isa = PBXBuildFile; fileRef = F681F6A6289CD2C500274CF9 /* NetworkNotAvailableView.swift */; };
+		F693040C28975A2100150369 /* RestaurantListView.swift in Sources */ = {isa = PBXBuildFile; fileRef = F693040B28975A2100150369 /* RestaurantListView.swift */; };
+		F693040E28975B6000150369 /* Const.swift in Sources */ = {isa = PBXBuildFile; fileRef = F693040D28975B6000150369 /* Const.swift */; };
+		F69304112897714E00150369 /* RestaurantRowView.swift in Sources */ = {isa = PBXBuildFile; fileRef = F69304102897714E00150369 /* RestaurantRowView.swift */; };
+		F69B3B6F289D1CC1005A5E0E /* Launch Screen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F69B3B6E289D1CC1005A5E0E /* Launch Screen.storyboard */; };
+		F6A920C52897A40A0077B6F3 /* StarsComponent.swift in Sources */ = {isa = PBXBuildFile; fileRef = F6A920C42897A40A0077B6F3 /* StarsComponent.swift */; };
+		F6A920C72897AB8C0077B6F3 /* RestaurantDetailView.swift in Sources */ = {isa = PBXBuildFile; fileRef = F6A920C62897AB8C0077B6F3 /* RestaurantDetailView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +42,30 @@
 		F62017762896725200A0F74D /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		F62017782896725300A0F74D /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		F620177B2896725300A0F74D /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		F6201783289672B000A0F74D /* Helper.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Helper.swift; sourceTree = "<group>"; };
+		F6201786289672EF00A0F74D /* Restaurants.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Restaurants.swift; sourceTree = "<group>"; };
+		F62017892896731C00A0F74D /* RestaurantDetails.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RestaurantDetails.swift; sourceTree = "<group>"; };
+		F620178B2896733500A0F74D /* Theme.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Theme.swift; sourceTree = "<group>"; };
+		F620178D2896737100A0F74D /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist; path = Info.plist; sourceTree = "<group>"; };
+		F6201792289676C200A0F74D /* Inter-Black.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Inter-Black.ttf"; sourceTree = "<group>"; };
+		F6201794289679D600A0F74D /* Inter-Thin.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Inter-Thin.ttf"; sourceTree = "<group>"; };
+		F6201795289679D600A0F74D /* Inter-Light.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Inter-Light.ttf"; sourceTree = "<group>"; };
+		F6201796289679D600A0F74D /* Inter-ExtraLight.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Inter-ExtraLight.ttf"; sourceTree = "<group>"; };
+		F6201797289679D600A0F74D /* Inter-Bold.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Inter-Bold.ttf"; sourceTree = "<group>"; };
+		F6201798289679D600A0F74D /* Inter-SemiBold.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Inter-SemiBold.ttf"; sourceTree = "<group>"; };
+		F6201799289679D600A0F74D /* Inter-Medium.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Inter-Medium.ttf"; sourceTree = "<group>"; };
+		F620179A289679D700A0F74D /* Inter-Regular.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Inter-Regular.ttf"; sourceTree = "<group>"; };
+		F620179B289679D700A0F74D /* Inter-ExtraBold.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Inter-ExtraBold.ttf"; sourceTree = "<group>"; };
+		F664D1B12898A2D900D1E666 /* ForYouView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ForYouView.swift; sourceTree = "<group>"; };
+		F681F6A2289B48F400274CF9 /* ProfileView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProfileView.swift; sourceTree = "<group>"; };
+		F681F6A4289CD1EA00274CF9 /* NetworkManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NetworkManager.swift; sourceTree = "<group>"; };
+		F681F6A6289CD2C500274CF9 /* NetworkNotAvailableView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NetworkNotAvailableView.swift; sourceTree = "<group>"; };
+		F693040B28975A2100150369 /* RestaurantListView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RestaurantListView.swift; sourceTree = "<group>"; };
+		F693040D28975B6000150369 /* Const.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Const.swift; sourceTree = "<group>"; };
+		F69304102897714E00150369 /* RestaurantRowView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RestaurantRowView.swift; sourceTree = "<group>"; };
+		F69B3B6E289D1CC1005A5E0E /* Launch Screen.storyboard */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; path = "Launch Screen.storyboard"; sourceTree = "<group>"; };
+		F6A920C42897A40A0077B6F3 /* StarsComponent.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StarsComponent.swift; sourceTree = "<group>"; };
+		F6A920C62897AB8C0077B6F3 /* RestaurantDetailView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RestaurantDetailView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -51,8 +98,12 @@
 		F62017732896725200A0F74D /* FoodFinder */ = {
 			isa = PBXGroup;
 			children = (
+				F6201791289676AD00A0F74D /* Fonts */,
+				F620178D2896737100A0F74D /* Info.plist */,
+				F62017822896729500A0F74D /* Utils */,
+				F6201785289672C300A0F74D /* Models */,
+				F693040F289770C600150369 /* Views */,
 				F62017742896725200A0F74D /* FoodFinderApp.swift */,
-				F62017762896725200A0F74D /* ContentView.swift */,
 				F62017782896725300A0F74D /* Assets.xcassets */,
 				F620177A2896725300A0F74D /* Preview Content */,
 			);
@@ -65,6 +116,58 @@
 				F620177B2896725300A0F74D /* Preview Assets.xcassets */,
 			);
 			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+		F62017822896729500A0F74D /* Utils */ = {
+			isa = PBXGroup;
+			children = (
+				F6201783289672B000A0F74D /* Helper.swift */,
+				F681F6A4289CD1EA00274CF9 /* NetworkManager.swift */,
+			);
+			path = Utils;
+			sourceTree = "<group>";
+		};
+		F6201785289672C300A0F74D /* Models */ = {
+			isa = PBXGroup;
+			children = (
+				F6201786289672EF00A0F74D /* Restaurants.swift */,
+				F62017892896731C00A0F74D /* RestaurantDetails.swift */,
+				F620178B2896733500A0F74D /* Theme.swift */,
+				F693040D28975B6000150369 /* Const.swift */,
+			);
+			path = Models;
+			sourceTree = "<group>";
+		};
+		F6201791289676AD00A0F74D /* Fonts */ = {
+			isa = PBXGroup;
+			children = (
+				F6201792289676C200A0F74D /* Inter-Black.ttf */,
+				F6201797289679D600A0F74D /* Inter-Bold.ttf */,
+				F620179B289679D700A0F74D /* Inter-ExtraBold.ttf */,
+				F6201796289679D600A0F74D /* Inter-ExtraLight.ttf */,
+				F6201795289679D600A0F74D /* Inter-Light.ttf */,
+				F6201799289679D600A0F74D /* Inter-Medium.ttf */,
+				F620179A289679D700A0F74D /* Inter-Regular.ttf */,
+				F6201798289679D600A0F74D /* Inter-SemiBold.ttf */,
+				F6201794289679D600A0F74D /* Inter-Thin.ttf */,
+			);
+			path = Fonts;
+			sourceTree = "<group>";
+		};
+		F693040F289770C600150369 /* Views */ = {
+			isa = PBXGroup;
+			children = (
+				F62017762896725200A0F74D /* ContentView.swift */,
+				F693040B28975A2100150369 /* RestaurantListView.swift */,
+				F69304102897714E00150369 /* RestaurantRowView.swift */,
+				F6A920C62897AB8C0077B6F3 /* RestaurantDetailView.swift */,
+				F6A920C42897A40A0077B6F3 /* StarsComponent.swift */,
+				F664D1B12898A2D900D1E666 /* ForYouView.swift */,
+				F681F6A2289B48F400274CF9 /* ProfileView.swift */,
+				F681F6A6289CD2C500274CF9 /* NetworkNotAvailableView.swift */,
+				F69B3B6E289D1CC1005A5E0E /* Launch Screen.storyboard */,
+			);
+			name = Views;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -125,8 +228,18 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				F620179D289679D700A0F74D /* Inter-Light.ttf in Resources */,
+				F62017A3289679D700A0F74D /* Inter-ExtraBold.ttf in Resources */,
+				F620179E289679D700A0F74D /* Inter-ExtraLight.ttf in Resources */,
+				F620179C289679D700A0F74D /* Inter-Thin.ttf in Resources */,
+				F620179F289679D700A0F74D /* Inter-Bold.ttf in Resources */,
+				F62017A0289679D700A0F74D /* Inter-SemiBold.ttf in Resources */,
+				F69B3B6F289D1CC1005A5E0E /* Launch Screen.storyboard in Resources */,
 				F620177C2896725300A0F74D /* Preview Assets.xcassets in Resources */,
+				F62017A2289679D700A0F74D /* Inter-Regular.ttf in Resources */,
+				F6201793289676C200A0F74D /* Inter-Black.ttf in Resources */,
 				F62017792896725300A0F74D /* Assets.xcassets in Resources */,
+				F62017A1289679D700A0F74D /* Inter-Medium.ttf in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -137,8 +250,21 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				F693040C28975A2100150369 /* RestaurantListView.swift in Sources */,
+				F681F6A3289B48F400274CF9 /* ProfileView.swift in Sources */,
+				F6201787289672EF00A0F74D /* Restaurants.swift in Sources */,
+				F664D1B22898A2D900D1E666 /* ForYouView.swift in Sources */,
+				F620178A2896731C00A0F74D /* RestaurantDetails.swift in Sources */,
 				F62017772896725200A0F74D /* ContentView.swift in Sources */,
+				F69304112897714E00150369 /* RestaurantRowView.swift in Sources */,
+				F6A920C52897A40A0077B6F3 /* StarsComponent.swift in Sources */,
+				F681F6A7289CD2C500274CF9 /* NetworkNotAvailableView.swift in Sources */,
+				F620178C2896733500A0F74D /* Theme.swift in Sources */,
+				F693040E28975B6000150369 /* Const.swift in Sources */,
+				F681F6A5289CD1EA00274CF9 /* NetworkManager.swift in Sources */,
 				F62017752896725200A0F74D /* FoodFinderApp.swift in Sources */,
+				F6A920C72897AB8C0077B6F3 /* RestaurantDetailView.swift in Sources */,
+				F6201784289672B000A0F74D /* Helper.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -270,9 +396,11 @@
 				DEVELOPMENT_TEAM = 4PTQMKG832;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = FoodFinder/Info.plist;
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
-				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
+				INFOPLIST_KEY_UILaunchStoryboardName = "Launch Screen";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations = UIInterfaceOrientationLandscapeRight;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				LD_RUNPATH_SEARCH_PATHS = (
@@ -299,9 +427,11 @@
 				DEVELOPMENT_TEAM = 4PTQMKG832;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = FoodFinder/Info.plist;
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
-				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
+				INFOPLIST_KEY_UILaunchStoryboardName = "Launch Screen";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations = UIInterfaceOrientationLandscapeRight;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				LD_RUNPATH_SEARCH_PATHS = (
