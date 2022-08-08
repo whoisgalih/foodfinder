@@ -59,13 +59,13 @@
 		F681F6A2289B48F400274CF9 /* ProfileView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProfileView.swift; sourceTree = "<group>"; };
 		F681F6A4289CD1EA00274CF9 /* NetworkManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NetworkManager.swift; sourceTree = "<group>"; };
 		F681F6A6289CD2C500274CF9 /* NetworkNotAvailableView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NetworkNotAvailableView.swift; sourceTree = "<group>"; };
-		F691C93A28A0BA7900DA1E7B /* Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		F693040B28975A2100150369 /* RestaurantListView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RestaurantListView.swift; sourceTree = "<group>"; };
 		F693040D28975B6000150369 /* Const.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Const.swift; sourceTree = "<group>"; };
 		F69304102897714E00150369 /* RestaurantRowView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RestaurantRowView.swift; sourceTree = "<group>"; };
 		F69B3B6E289D1CC1005A5E0E /* Launch Screen.storyboard */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; path = "Launch Screen.storyboard"; sourceTree = "<group>"; };
 		F6A920C42897A40A0077B6F3 /* StarsComponent.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StarsComponent.swift; sourceTree = "<group>"; };
 		F6A920C62897AB8C0077B6F3 /* RestaurantDetailView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RestaurantDetailView.swift; sourceTree = "<group>"; };
+		F6F3C3CF28A0BBEA00289432 /* Base */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; name = Base; path = Base.lproj/Info.plist; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -98,7 +98,7 @@
 		F62017732896725200A0F74D /* FoodFinder */ = {
 			isa = PBXGroup;
 			children = (
-				F691C93A28A0BA7900DA1E7B /* Info.plist */,
+				F6F3C3D028A0BBEA00289432 /* Info.plist */,
 				F6201791289676AD00A0F74D /* Fonts */,
 				F62017822896729500A0F74D /* Utils */,
 				F6201785289672C300A0F74D /* Models */,
@@ -269,6 +269,17 @@
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXSourcesBuildPhase section */
+
+/* Begin PBXVariantGroup section */
+		F6F3C3D028A0BBEA00289432 /* Info.plist */ = {
+			isa = PBXVariantGroup;
+			children = (
+				F6F3C3CF28A0BBEA00289432 /* Base */,
+			);
+			name = Info.plist;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
 
 /* Begin XCBuildConfiguration section */
 		F620177D2896725300A0F74D /* Debug */ = {
